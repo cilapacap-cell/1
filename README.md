@@ -1,3 +1,5 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SlamminPig/6FootScripts/refs/heads/main/Scripts/SoloHunters.lua'))();
+
 loadstring(game:HttpGet("https://menghub.dannnnbiasalah.workers.dev/"))()
 
 loadstring(game:HttpGet("https://gitlab.com/blazars1/blazarsui/-/raw/main/kingvypers.lua"))()
